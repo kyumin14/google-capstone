@@ -1,2 +1,3 @@
 Write 1.1, 2.1, flesh out 1.2, fix error removing values from hourly df (6/7/23)
 Finish share section 5
+Nearly done with share section, need to flesh out 1.1 and start on section 6. (6/13/23)
